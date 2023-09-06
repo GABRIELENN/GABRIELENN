@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gabriel! <br/> <a href="https://www.linkedin.com/in/g-ajiboye-5260ga"> Cybersecurity Professional</a>
+<h1>Hi, I'm Gabriel! <br/> <a href="https://www.linkedin.com/in/g-ajiboye-5260ga"> Cybersecurity Professional, IT Support, Networking.</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 

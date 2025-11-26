@@ -1,65 +1,51 @@
- <h1>Hi, I'm Gabriel! <br/> <a href="https://www.linkedin.com/in/g-ajiboye-5260ga"> Cybersecurity Professional, IT Support, Networking.</a>
+<h1>Hi, I'm Muhammed Tunde! <br/> 
+<a href="#">Machine Learning Engineer | Data Engineer | AI Enthusiast</a>
+</h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Machine Learning Engineer:</h2>
 
-- <b> Certifications </b>
-  - [Google CyberSecurity certificate ](https://www.coursera.org/account/accomplishments/verify/NNZKRAAVYF2N?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course )
- 
-- <b>Risk assessment </b>
+- <b>Certifications</b>  
+  - Google Data Analytics (Coursera)  
+  - Machine Learning Specialization — Andrew Ng  
+  - Azure AI Fundamentals (AI-900)
 
-  - [Botium Toys IT Auditing for Cybersecurity ](https://github.com/users/GABRIELENN/projects/1 )
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Machine Learning & AI Projects</b>
+  - 📌 <b>Customer Churn Prediction (Python, Scikit-Learn)</b>  
+    Built an end-to-end churn model with feature engineering, hyperparameter tuning (Optuna), and Flask API deployment.
+  
+  - 📌 <b>Image Classification with CNNs (TensorFlow/Keras)</b>  
+    Developed a convolutional neural network to classify images with >90% accuracy, deployed via Streamlit.
 
-<h2>📺 Popular YouTube Videos</h2>
+  - 📌 <b>Recommendation System</b>  
+    Implemented collaborative filtering + content-based hybrid recommender for product ranking.
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- <b>Data Engineering Work</b>
+  - ETL pipelines using Python, Pandas, and SQL  
+  - Data ingestion + orchestration with Airflow  
+  - Built scalable pipelines on Azure (Blob Storage, Functions, ADF)
 
-<h2> 🤳 Connect with me:</h2>
+- <b>Full-Stack + ML Deployments</b>
+  - <b>React + FastAPI + ML Model Serving</b>  
+    Integrated trained ML models into a full-stack app with real-time inference.
+  - <b>API-Based Inference System</b>  
+    Packaged ML models with Docker and deployed on Azure App Services.
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- <b>Programming & Tools</b>
+  - Python (Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch)  
+  - SQL, PowerShell, Bash  
+  - Azure, Docker, Git/GitHub  
+  - C# fundamentals  
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+<h2>📺 Popular Resources I Created</h2>
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Intro to Machine Learning for Beginners  
+- Understanding Overfitting & Regularization  
+- Deploying ML Models with FastAPI  
+- Data Cleaning Techniques Every ML Engineer Should Know
 
-Here are some ideas to get you started:
+<h2>🤳 Connect with me:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
--->          
-                   
-                            
-                          
-                                
-                    
-               
- 
+[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](#)
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](#)
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](#)
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](#)
